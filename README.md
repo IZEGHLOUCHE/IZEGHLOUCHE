@@ -3,7 +3,6 @@
 I'm a Data Engineer from France :fr:
 <br />
 <img src="data platform.gif"
-     height="800"
      alt="data platform icon"
      style="float: left; margin-right: 10px;" />
 <p><em>Credit: Semantix</em></p>     
